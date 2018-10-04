@@ -3,7 +3,7 @@ name: Bot
 completionMethod: manual
 ```
 
-@youtube(unc5JMWNQag)
+@[youtube](unc5JMWNQag)
 
 ### Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
