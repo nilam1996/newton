@@ -1,5 +1,5 @@
 ```ngMeta
-name: Bot
+name: bot
 completionMethod: manual
 ```
 
