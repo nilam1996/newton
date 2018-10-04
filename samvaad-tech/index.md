@@ -22,5 +22,6 @@
 - cookie.md
 - flowchart.md
 - rgb.md
+- bot.md
 - todo.md
 
