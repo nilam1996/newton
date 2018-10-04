@@ -4,5 +4,5 @@
 - dns.md
 - database.md
 - networking.md
-- bot.md
+- bot_file.md
 - todo.md
