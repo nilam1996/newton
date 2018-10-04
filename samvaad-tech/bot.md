@@ -39,3 +39,4 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue.
 
 2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein.
+
